@@ -1,0 +1,26 @@
+.card {
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    background-color: white;
+}
+
+.card h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.card-content {
+    margin: 15px 0;
+    color: #555;
+}
+
+.card-footer {
+    font-weight: bold;
+    color: #007bff;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+}
